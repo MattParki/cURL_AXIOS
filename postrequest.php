@@ -23,4 +23,7 @@ function request() {
 	return $responseData;
 }
 $responseData = request();
+
+// print_r($responseData);
+
 ?>
